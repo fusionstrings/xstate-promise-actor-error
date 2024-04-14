@@ -1,0 +1,17 @@
+{
+  "name": "xstate-promise-actor-error",
+  "version": "1.0.0",
+  "description": "Promise actor error handling",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "xstate": "^5.10.0"
+  },
+  "keywords": [
+    "xstate",
+    "javascript"
+  ],
+  "type": "module"
+}
